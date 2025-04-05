@@ -1,0 +1,25 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Large assets ignored
+Assets/vegetation/Rocks and Vegetation Pack/Models/Rock 9.fbx
+Assets/vegetation/Rocks and Vegetation Pack/Models/Rock 6.fbx
+Assets/vegetation/Rocks and Vegetation Pack/Models/Rock 4.fbx
+Assets/Scenes/SampleScene/ReflectionProbe-0.exr
