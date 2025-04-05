@@ -13,14 +13,14 @@ This project is part of a school assignment focused on **gamification**. The goa
 
 ## Screenshots
 
-![Screenshot 1](Screenshots/gamification1.png)  
+![Screenshot 1](Screenshots/gamification1.jpg)  
 
-![Screenshot 2](Screenshots/gamification2.png)  
+![Screenshot 2](Screenshots/gamification2.jpg)  
 
-![Screenshot 3](Screenshots/gamification3.png)  
+![Screenshot 3](Screenshots/gamification3.jpg)  
 
-![Screenshot 4](Screenshots/gamification4.png)  
+![Screenshot 4](Screenshots/gamification4.jpg)  
 
-![Screenshot 5](Screenshots/gamification5.png)  
+![Screenshot 5](Screenshots/gamification5.jpg)  
 
-![Screenshot 6](Screenshots/gamification6.png)  
+![Screenshot 6](Screenshots/gamification6.jpg)  
