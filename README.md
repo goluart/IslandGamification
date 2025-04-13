@@ -26,7 +26,15 @@ This project is part of a school assignment focused on **gamification**. The goa
 ![Screenshot 6](Screenshots/gamification6.jpg)  
 
 ## 13.04.2025
-- Added a creature to the scene and created 2 animations for it to walk and a "scare" animation that will later on trigger when player is nearby.
-  
+- Added a creature to the scene and created 2 animations for it to walk and a "scare" which triggers when player is insdie the creatures Sphere Collider.
+- NavMesh added to make the creature chase the player.
+- Added NavMesh Modifier to the island (to exclude some unwanted areas)
+- NavMesh Surface baked onto the island
+- Added flashlight and a script to it which lights it up
+
 ![Screenshot Spider](https://i.imgur.com/oFz6tnN.png)
-  
+
+![Screenshot Spider navmesh](https://i.imgur.com/RUyJt2o.png)
+
+![Screenshot Spider/Flashlight](https://i.imgur.com/tdCyssv.jpeg)
+
