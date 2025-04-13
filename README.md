@@ -27,5 +27,5 @@ This project is part of a school assignment focused on **gamification**. The goa
 
 ## 13.04.2025
 - Added a creature to the scene and created 2 animations for it to walk and a "scare" animation that will later on trigger when player is nearby.
-- ![Screenshot Spider](https://i.imgur.com/oFz6tnN.png)
+![Screenshot Spider](https://i.imgur.com/oFz6tnN.png)
   
