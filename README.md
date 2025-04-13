@@ -1,6 +1,6 @@
 # Island Gamification
 
-This project is part of a school assignment focused on **gamification**. The goal was to create an interactive island environment using Unity. The project features a variety of assets and environmental effects to enhance the user experience.
+This project is part of a school assignment focused on **gamification**. The goal was to create an interactive island environment using Unity (editor version: 6000.0.43f1). The project features a variety of assets and environmental effects to enhance the user experience.
 
 ## Features:
 - **First-Person Controller**: A character controller to move around and interact with the environment.
